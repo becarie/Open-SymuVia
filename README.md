@@ -1,7 +1,7 @@
 # Open-SymuVia
 
 **Note**:
-This repository is an archive: For recent relases and more information, please visit: [licit-lab/symuvia](https://github.com/licit-lab/symuvia)
+This repository is an archive: For recent relases and more information, please visit: [licit-lab/symuvia](https://github.com/emob-lab/symuvia)
 
 **Open-SymuVia** is an open-source traffic simulator. 
 It compounds of:
